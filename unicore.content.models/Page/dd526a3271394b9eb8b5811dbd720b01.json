@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Get free HIV information today", 
+  "language": "swa_TZ", 
+  "title": "Local HIV Testing & Counselling Hotline", 
+  "primary_category": "26b97ceb2888441eb3d18fb46aa83578", 
+  "created_at": "2015-10-08T09:35:25.587256+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-10-08T09:35:25.587532+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "TAYOA, provides infomation to callers on HIV,TB, STIs and PMTCT in English and Swahili, through an anonymous and confidential, toll free, national hotline based in Dar es Salaam, 7 days a week from midday till midnight. Send a text to 15017 or call  the National Health Helpline (177).", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "local-hiv-testing-counselling-hotline", 
+  "uuid": "dd526a3271394b9eb8b5811dbd720b01"
+}
