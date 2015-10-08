@@ -5,13 +5,13 @@
   "title": "Je, unaweza kupata VVU na magonjwa ya zinaa kwa kubusiana?", 
   "primary_category": "8c345443605d41529bec28a877bcadca", 
   "created_at": "2015-10-08T07:51:26+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-10-08T11:24:06.334495+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-08T12:14:28.633116+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
