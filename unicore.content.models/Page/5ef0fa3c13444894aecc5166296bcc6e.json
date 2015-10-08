@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Choose your answer: [YES] or [NO]", 
+  "language": "eng_GB", 
+  "title": "Is HIV the same thing as AIDS?", 
+  "primary_category": "28d65bd8f8cd4c34b158beae19b2f649", 
+  "created_at": "2015-10-08T09:41:19.774925+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-10-08T09:41:19.775125+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Answer: NO. HIV is NOT equal to AIDS. HIV stands for Human Immunodeficiency Virus. HIV attacks a person\u2019s immune system, the part of our body that fights sickness. Without treatment, HIV can lead to AIDS, which stands for Acquired Immunodeficiency Syndrome. AIDS is much more severe than HIV, but still only transmittable through five bodily fluids: \r\n\r\n 1. blood\r\n 2. semen\r\n 3. vaginal fluid \r\n 4. rectal fluids and \r\n 5. breast milk. \r\n\r\nOnce a person develops AIDS, their body has a very difficult time fighting off other illnesses. This is why people die from AIDS \u00adrelated illnesses, but not AIDS itself.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "hiv-same-thing-aids", 
+  "uuid": "5ef0fa3c13444894aecc5166296bcc6e"
+}
