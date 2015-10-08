@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "604b5f73603e4fb48d116779f955d39f"
+  ], 
   "id": null, 
   "content": "Jibu: **KABISA**. Kuwa katika mahusiano na mwanaume mtu mzima na tajiri  ni hatari sana, kwa sababu hiyo ina maana unaweza kuwa na madaraka kidogo juu ya mahusiano. Kwa kukosekana kwa usawa wa madaraka, unaweza ukakosa kuwa na udhibiti wa kufanya maamuzi yako mwenyewe. Mahusiano, katika hali yake ya ubora, ni kuwa na usawa na kuheshimiana.\r\n\r\nSwali linalohusiana:\r\n", 
   "source": null, 
