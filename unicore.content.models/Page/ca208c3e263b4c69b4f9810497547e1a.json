@@ -6,12 +6,12 @@
   "primary_category": "8c345443605d41529bec28a877bcadca", 
   "created_at": "2015-10-08T07:51:26+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-10-23T09:23:57.115465+00:00", 
+  "modified_at": "2015-11-26T13:03:36.948527+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,7 +20,7 @@
   "id": null, 
   "content": " Jibu: **INATEGEMEA**.  Malengelenge ni  ugonjwa pekee wa zinaa (STI)  ambao unaweza kuambukizwa kwa njia ya kubusiana. Hii kwa kawaida hutokea wakati mtu mmoja ana kidonda juu ya au karibu na kinywa anapombusu mtu mwingine.\r\n\r\nKwa upande mwingne, VVU haiwezi kuambukizwa kutokana na kitendo cha kubusiana. VVU huweza kuambukizwa kwa: 1) damu, 2) shahawa, 3) majimaji ya ukeni, 4) maji maji kutoka kwenye njia ya haja kubwa na 5) maziwa ya mama. VVU huambukizwa mara nyingi kwa kujamiiana na mtu anayeishi na VVU\u037e kwa kushirikiana sindano wakati wa kutumia madawa ya kulevya, na kutoka kwa mama kwenda kwa mtoto wakati wa ujauzito, kujifungua au kipindi cha kunyonyesha.       \r\n\r\nSwali linalofuata:\r\n", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
