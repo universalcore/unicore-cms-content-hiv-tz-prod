@@ -6,12 +6,12 @@
   "primary_category": "8c345443605d41529bec28a877bcadca", 
   "created_at": "2015-10-08T08:42:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-08-25T10:43:17.868647+00:00", 
+  "modified_at": "2016-08-25T14:45:24.548855+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 15, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "marafiki-zangu-hutumia-dawa-za-kulevya-madawa-ya-burudani-hayataniumiza-mimi", 
   "uuid": "a6f99cc41c8242039dcac77fb4d8fc9b"
