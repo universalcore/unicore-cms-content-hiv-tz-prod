@@ -6,12 +6,12 @@
   "primary_category": "8c345443605d41529bec28a877bcadca", 
   "created_at": "2015-10-08T09:26:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-08T11:33:41.407012+00:00", 
+  "modified_at": "2016-08-25T08:59:55.191419+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,7 +19,7 @@
   ], 
   "id": null, 
   "content": "Jibu: **NDIO**. Kwa bahati mbaya, vijana balehe wengi wanajikuta     wakibakwa kwa viwango vinavyongezeka. kubakwa ni kubaya sana daima. Kubakwa au ngono ya kulazimishwa  ni tatizo la  kubwa kwa mtu yeyote huwa na madhara  ya muda mrefu na  ni vigumu kutibika (kimwili na kiakili). Kama unajua mtu ambaye amekuwa akilazimishwa kufanya ngono bila kupenda, wanahitaji msaada wako sasa kuliko kipindi chochote. Kumsikiliza ni mwanzo mzuri. Kuwatia moyo kuzungumza na daktari au muuguzi ili waweze kupata msaada wowote wa matibabu muhimu. Akimuelezea mtu mzima anayemwamini ni hatua nyingine nzuri kuchukua.\r\n\r\nSwali Linalofuata:\r\n", 
-  "source": null, 
+  "source": "0ceb2979b02346bdbc8183ba6a6d03a1", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
