@@ -6,12 +6,12 @@
   "primary_category": "8c345443605d41529bec28a877bcadca", 
   "created_at": "2015-10-08T09:37:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-08T11:34:57.727535+00:00", 
+  "modified_at": "2016-08-25T08:54:01.205500+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,7 +19,7 @@
   ], 
   "id": null, 
   "content": "Jibu: **HAPANA, haiwezekani kabisa**. VVU haviwezi kuambukizwa kwa kula pamoja.\r\n\r\nVVU huambukizwa tu kwa njia tano za kugusana kwa maji ya mwili: \r\n\r\n 1. Damu\r\n 2. shahawa\r\n 3. majimaji ya ukeni,\r\n 4. majimaji kutoka kwenye njia ya haja kubwa  \r\n 5. maziwa ya mama . VVU mara nyingi huambukizwa kwa kujamiiana na mtu anayeishi na VVU, kwa kushirikiana sindano wakati wa kutumia madawa ya kulevya, na kutoka kwa mama kwenda kwa mtoto wakati wa ujauzito, kujifungua au kunyonyesha. njia hizi zote za maambukizi zinaweza kuzuiwa. Kutumia kondomu wakati wa ngono, kutumia sindano safi, na kutumia  tiba ya kurefusha maisha kama wewe unaishi na **VVU zote kwa kiasi kikubwa hupunguza uwezekano wa maambukizi**.\r\n\r\nSwali linalofuata:\r\n", 
-  "source": null, 
+  "source": "cebd88ebad84409cb912180ef7eaf381", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
